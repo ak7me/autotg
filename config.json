@@ -1,0 +1,13 @@
+{
+    "proxy" : {
+        "host" : "46.8.22.148", 
+        "port" : 5501,
+        "username" : "6NeZMV",
+        "password" : "iSxcP9mEj0"
+    },
+
+    "api_id" : 24658965,
+    "api_hash" : "5b7bc66bb640eef5b820763f46d4e110",
+    "spam_text" : "Кто первый напишет в лс получит премку!!",
+    "delay" : 7
+}
